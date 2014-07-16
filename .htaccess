@@ -1,0 +1,4 @@
+Options +FollowSymLinks -Multiviews
+RewriteEngine On
+CheckSpelling on
+Redirect 301 /WebReviewPlugin http://webreview.squarific.com/
