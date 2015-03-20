@@ -1,5 +1,12 @@
 Options +FollowSymLinks -Multiviews
-RewriteEngine On
+
+RewriteEngine on
 CheckSpelling on
+
 Redirect 301 /WebReviewPlugin http://webreview.squarific.com/
 Redirect 301 /drawtogether /drawtogheter
+Redirect 301 /simplelogic /simpleLogic
+Redirect 301 /DemocraticProgramming /democraticprogramming
+Redirect 301 /democraticProgramming /democraticprogramming
+Redirect 301 /drawtogheter2 http://www.anondraw.com
+Redirect 301 /drawtogether2 http://www.anondraw.com
